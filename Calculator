@@ -1,3 +1,4 @@
 cout<<"Maryam";
 cout<<"23-st-021";
 cout<<"Add two numbers:"<<a+b<<endl;
+cout<<"Subtract two number:<<a-b<<endl;
